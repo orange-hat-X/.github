@@ -1,5 +1,6 @@
-## Hi there 👋
-
+Merhaba,
+Furkan ASLAN - https://github.com/Furkanaslnn
+Kübra KARA - https://github.com/Kubrakara
 <!--
 
 **Here are some ideas to get you started:**
