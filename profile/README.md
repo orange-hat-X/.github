@@ -1,6 +1,6 @@
 Merhaba,
 - Furkan ASLAN - https://github.com/Furkanaslnn 
-- Kübra KARA - https://github.com/Kubrakara - https://github.com/Kubraeaa
+- Kübra KARA  - https://github.com/Kubraeaa - https://github.com/Kubrakara
 
 <!--
 
